@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment
+venv/
+env/
+.venv/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Kaggle temporary files
+kaggle/working/
+.virtual_documents/
+
+# Large raw datasets
+dataset/
+data/
+*.zip
+
+# Optional logs
+*.log
